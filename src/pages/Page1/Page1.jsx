@@ -1,9 +1,10 @@
 import React from 'react'
+import "./Page1Style.css"
 
 const Page1 = () => {
     return (
-        <div>
-            page1
+        <div className='page1'>
+            <div></div>
         </div>
         )
     };
