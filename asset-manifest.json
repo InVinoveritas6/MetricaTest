@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/MetricaTest/static/css/main.7607b99d.css",
-    "main.js": "/MetricaTest/static/js/main.7ace3456.js",
-    "static/js/787.538e21b3.chunk.js": "/MetricaTest/static/js/787.538e21b3.chunk.js",
-    "index.html": "/MetricaTest/index.html",
-    "main.7607b99d.css.map": "/MetricaTest/static/css/main.7607b99d.css.map",
-    "main.7ace3456.js.map": "/MetricaTest/static/js/main.7ace3456.js.map",
-    "787.538e21b3.chunk.js.map": "/MetricaTest/static/js/787.538e21b3.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.7607b99d.css",
-    "static/js/main.7ace3456.js"
-  ]
+  "main.css": "/MetricaTest/static/css/main.73d69792.chunk.css",
+  "main.js": "/MetricaTest/static/js/main.fac9ac34.chunk.js",
+  "main.js.map": "/MetricaTest/static/js/main.fac9ac34.chunk.js.map",
+  "static/js/1.e8e3b76c.chunk.js": "/MetricaTest/static/js/1.e8e3b76c.chunk.js",
+  "static/js/1.e8e3b76c.chunk.js.map": "/MetricaTest/static/js/1.e8e3b76c.chunk.js.map",
+  "static/js/2.ae1f4f8d.chunk.js": "/MetricaTest/static/js/2.ae1f4f8d.chunk.js",
+  "static/js/2.ae1f4f8d.chunk.js.map": "/MetricaTest/static/js/2.ae1f4f8d.chunk.js.map",
+  "runtime~main.js": "/MetricaTest/static/js/runtime~main.69923f5f.js",
+  "runtime~main.js.map": "/MetricaTest/static/js/runtime~main.69923f5f.js.map",
+  "static/css/main.73d69792.chunk.css.map": "/MetricaTest/static/css/main.73d69792.chunk.css.map",
+  "index.html": "/MetricaTest/index.html",
+  "precache-manifest.3bcab3c4230a7e19dfa25dd772c21647.js": "/MetricaTest/precache-manifest.3bcab3c4230a7e19dfa25dd772c21647.js",
+  "service-worker.js": "/MetricaTest/service-worker.js"
 }
