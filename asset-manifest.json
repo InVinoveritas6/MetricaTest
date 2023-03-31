@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MetricaTest/static/css/main.7607b99d.css",
-    "main.js": "/MetricaTest/static/js/main.11b4864c.js",
+    "main.js": "/MetricaTest/static/js/main.c2f136a8.js",
     "static/js/787.538e21b3.chunk.js": "/MetricaTest/static/js/787.538e21b3.chunk.js",
     "index.html": "/MetricaTest/index.html",
     "main.7607b99d.css.map": "/MetricaTest/static/css/main.7607b99d.css.map",
-    "main.11b4864c.js.map": "/MetricaTest/static/js/main.11b4864c.js.map",
+    "main.c2f136a8.js.map": "/MetricaTest/static/js/main.c2f136a8.js.map",
     "787.538e21b3.chunk.js.map": "/MetricaTest/static/js/787.538e21b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7607b99d.css",
-    "static/js/main.11b4864c.js"
+    "static/js/main.c2f136a8.js"
   ]
 }
