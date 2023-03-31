@@ -1,7 +1,7 @@
 {
   "main.css": "/MetricaTest/static/css/main.73d69792.chunk.css",
-  "main.js": "/MetricaTest/static/js/main.fac9ac34.chunk.js",
-  "main.js.map": "/MetricaTest/static/js/main.fac9ac34.chunk.js.map",
+  "main.js": "/MetricaTest/static/js/main.614c12d7.chunk.js",
+  "main.js.map": "/MetricaTest/static/js/main.614c12d7.chunk.js.map",
   "static/js/1.e8e3b76c.chunk.js": "/MetricaTest/static/js/1.e8e3b76c.chunk.js",
   "static/js/1.e8e3b76c.chunk.js.map": "/MetricaTest/static/js/1.e8e3b76c.chunk.js.map",
   "static/js/2.ae1f4f8d.chunk.js": "/MetricaTest/static/js/2.ae1f4f8d.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/MetricaTest/static/js/runtime~main.69923f5f.js.map",
   "static/css/main.73d69792.chunk.css.map": "/MetricaTest/static/css/main.73d69792.chunk.css.map",
   "index.html": "/MetricaTest/index.html",
-  "precache-manifest.3bcab3c4230a7e19dfa25dd772c21647.js": "/MetricaTest/precache-manifest.3bcab3c4230a7e19dfa25dd772c21647.js",
+  "precache-manifest.84a166033dc2f7b14b01b9c321f1564f.js": "/MetricaTest/precache-manifest.84a166033dc2f7b14b01b9c321f1564f.js",
   "service-worker.js": "/MetricaTest/service-worker.js"
 }
