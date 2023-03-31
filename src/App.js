@@ -5,7 +5,7 @@ import Page1 from "./pages/Page1/Page1";
 import Page2 from "./pages/Page2/Page2";
 import Page3 from "./pages/page3";
 import Homepage from "./pages/Homepage/HomePage";
-
+import { YMInitializer } from 'react-yandex-metrika';
 // import logo from "../public/logo192.png"
 
 class App extends React.Component {
@@ -38,6 +38,7 @@ render() {
             </div>
           </div>
         </div>
+        <YMInitializer accounts={[93025937]} />
       </div>
       <Routes>
         <Route path="/MetricaTest/" element={<Homepage />} />

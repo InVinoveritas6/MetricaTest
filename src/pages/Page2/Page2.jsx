@@ -1,10 +1,12 @@
 import React from "react";
 import "./Page2Style.css";
+import { YMInitializer } from 'react-yandex-metrika';
 
 const Page2 = () => {
   return (
     <>
       <div>
+      <YMInitializer accounts={[93025937]} />
         <h2>
           {" "}
           Так, в этом разделе будет много текста, не пугайтесь, проскрольте его
