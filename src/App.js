@@ -1,3 +1,4 @@
+import React from "react";
 import "./App.css";
 import { Routes, Route, Link } from "react-router-dom";
 import Page1 from "./pages/Page1/Page1";
@@ -7,7 +8,15 @@ import Homepage from "./pages/Homepage/HomePage";
 
 // import logo from "../public/logo192.png"
 
-function App() {
+class App extends React.Component {
+  componentDidUpdate(prevProps) {
+    if (this.props.location.pathname !== prevProps.location.pathname) {
+      window.ym(93025937,'hit', window.location.href);
+      console.log(this.props.location.pathname);
+    }
+  }
+
+render() {
   return (
     <div className="App">
       <div>
@@ -38,6 +47,8 @@ function App() {
       </Routes>
     </div>
   );
+
+}
 }
 
 export default App;
