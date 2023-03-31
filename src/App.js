@@ -29,6 +29,7 @@ function App() {
             </div>
           </div>
         </div>
+        Нажмите на синию кнопку
       </div>
       <Routes>
         <Route path="/" element={<Homepage />} />
