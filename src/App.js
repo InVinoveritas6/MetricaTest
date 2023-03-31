@@ -29,10 +29,9 @@ function App() {
             </div>
           </div>
         </div>
-        Нажмите на синию кнопку
       </div>
       <Routes>
-        <Route path="/" element={<Homepage />} />
+        <Route path="/MetricaTest/" element={<Homepage />} />
         <Route path="/page1" element={<Page1 />} />
         <Route path="/page2" element={<Page2 />} />
         <Route path="/page3" element={<Page3 />} />
