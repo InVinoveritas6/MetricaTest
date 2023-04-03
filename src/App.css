@@ -37,26 +37,6 @@
   }
 }
 
-.header {
-  display: flex;
-  justify-content: space-around;
-  border: 2px solid black;
-}
-
-.menu {
-  display: flex;
-  justify-content: space-between;
-}
-
-.page {
-  padding: 5px 10px;
-  border: 1px solid black;
-}
-
-.logo {
-  background: blue;
-}
-
 .Homepage {
   width: 100vw;
   height: 100vh;
