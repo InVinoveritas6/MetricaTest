@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MetricaTest/precache-manifest.e40a11d4a0e2c69013f122b7bbb2d994.js"
+  "/MetricaTest/precache-manifest.9c9219f247dfb629aeb5488181ca3784.js"
 );
 
 workbox.clientsClaim();
